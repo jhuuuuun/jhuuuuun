@@ -29,10 +29,10 @@ I enjoy solving technical problems, developing practical systems, and improving 
 | **Physician Management System** | Online system for physician management and administration. |
 | **Attending Physician Index** | System supporting records and information for attending physicians. |
 | **OR Tech System** | System for creating and managing operating-room technical reports. |
-| **QMMGMPC Registry System** [https://registry.qmmgmpc.com/] | Online member registry system for QMMGMPC. |
 | **Online Voting System** | Online voting platform for annual general assembly activities. |
+| **QMMGMPC Registry System** [https://registry.qmmgmpc.com/] | Online member registry system for QMMGMPC. |
 | **LMMGGH Website** [https://lucenammg.qmmgmpc.com/] | Development and maintenance of the hospital website. |
-| **QMMGMPC Website** [https://.qmmgmpc.com/] | Development and maintenance of the cooperative website. |
+| **QMMGMPC Website** [https://qmmgmpc.com/] | Development and maintenance of the cooperative website. |
 
 ---
 
